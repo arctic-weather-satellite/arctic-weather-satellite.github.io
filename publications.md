@@ -53,9 +53,13 @@ title: Publications
 
 </table>
 
-## Other AWS related publications
+## Other AWS related publications and study reports
 
 <table align="center">
   <tr><th align="center">Authors</th><th align="center">Title</th><th align="center">Date</th></tr>
+   <tr><td>David Duncan, Niels Bormann, Mohamed Dahoui, Marijana Crepulja</td>
+   <td><a href="https://www.ecmwf.int/en/elibrary/81681-assessment-arctic-weather-satellite-nwp">Assessment of the Arctic Weather Satellite in NWP</a></td>
+   <td>September, 2025</td></tr>
+
    <tr><td>Bengt Rydberg</td><td><a href="https://doi.org/10.5281/zenodo.15049254">Remapping of AWS data</a></td><td>March 19, 2025</td></tr>
 </table>
