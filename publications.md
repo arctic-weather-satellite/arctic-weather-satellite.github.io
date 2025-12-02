@@ -29,16 +29,18 @@ title: Publications
   Impact assessment of AWS constellation (using already operating microwave sounders)</a>
   </td><td>28 May, 2024</td></tr>
 
-  <tr><td>D6</td><td>Impact assessment of AWS constellation (using real AWS data)</td><td>@End of Project (~Dec 2025)</td></tr>
+  <tr><td>D6</td><td><a href="https://doi.org/10.5281/zenodo.17637106">
+  Impact assessment of AWS constellation (using real AWS data)</a>
+  </td><td>October 24, 2025</td></tr>
 
   <tr><td>D7</td><td><a href="https://doi.org/10.5281/zenodo.17265956">
   Technical note describing the Quality assessment of AWS data and identified improvements for the AWS data during SIOV</a>
   </td><td>August 28, 2025</td></tr>
 
-  <tr><td>D8</td><td>Technical note describing the proposed overall Cal/Val strategy for the AWS Satellite</td><td>@End of Project (~Dec 2025)</td></tr>
+  <tr><td>D8</td><td>Technical note describing the proposed overall Cal/Val strategy for the AWS Satellite</td><td>November 28, 2025</td></tr>
   <tr><td>D9</td><td><a href="https://doi.org/10.5281/zenodo.17265992">Quantification of AWS data quality and timeliness</a>
   </td><td>16 September, 2025</td></tr>
-  <tr><td>D10</td><td>Impact assessment of AWS to regional NWP and NWC</td><td>@End of project (~Dec 2025)</td></tr>
+  <tr><td>D10</td><td>Impact assessment of AWS to regional NWP and NWC</td><td>November 28, 2025</td></tr>
 </table>
 
 
