@@ -39,9 +39,9 @@ Norrköping, Sweden for further processing. The data from the Oslo and Sodankyl�
 stations are processed locally. As all three stations have also other
 commitments than AWS reception not all visible passes will be acquired.
 
-It is expected that around 60% of the AWS passes visible from Kangerlussuaq
-will be acquired. For the region covered by the Oslo and Sodankylä antennas AWS
-reception efficiency will be higher, resulting in an expected overall 80% AWS
+On average around 60% of the AWS passes visible from Kangerlussuaq
+are routinely being acquired. For the region covered by the Oslo and Sodankylä antennas AWS
+reception efficiency is higher, resulting in an overall ~80% AWS
 reception efficiency over the entire Nordic AWS ground segment.
 
 ![](assets/img/aws_nordic_groundsegment_ovw_web_v1.png){: width="800"}
@@ -50,16 +50,23 @@ reception efficiency over the entire Nordic AWS ground segment.
  each reception site. The raw data acquired in Kangerlussuaq will be sent to
  Copenhagen and uploaded in real-time for SMHI to process and disseminate.*
 
-Data will be processed to level-1b (four geolocation datasets, one for each
+Data are processed in real-time to level-1b (four geolocation datasets, one for each
 feedhorn/group of channels) and level-1c (all data mapped to the 183 GHz grid).
 The file format is netCDF/CF and inherrits as far as possible from the <a
 href="https://user.eumetsat.int/s3/eup-strapi-media/pdf_epssg_mws_l1b_pfs_7204c74d3b.pdf">EUMETSAT EPS-SG
 MWS file format</a>.
-The average timeliness (from observation to level-1c) is expected to be better
-than 15 minutes.
+The average timeliness (from observation to level-1c) is better than 15
+minutes: Level-1c data are available within 1-3 minutes after end of
+acquisition, and the passes are usually around 10 minutes long, meaning the
+first lines received are around 11-13 minutes old, while the last lines
+received are only a couple of minutes old.
 
 
-## Example - how to fetch data
+## Data access
+
+Data may be available on request, but is intended first of all for NWP centres
+and first of all for operational (or pre-operational) use over the domain
+covered by the three stations (see figure above).
 
 To download processed Arctic Weather Satellite data from the three Nordic S3 buckets you
 will need to get access/secret key pairs, one pair of keys for each
@@ -68,6 +75,8 @@ that, please contact us at: <a href="assets/img/email_image.png"><img
 src="assets/img/email_image.png" alt="Contact us at email address"
 height="20"/></a>
 
+
+### Example - how to fetch data
 
 Below is an example of how to fetch the latest Level-1c data from the bucket at
 SMHI (data received at Kangerlussuaq, Greenland) from a Linux terminal.
