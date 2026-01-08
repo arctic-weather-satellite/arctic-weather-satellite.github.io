@@ -37,10 +37,16 @@ title: Publications
   Technical note describing the Quality assessment of AWS data and identified improvements for the AWS data during SIOV</a>
   </td><td>August 28, 2025</td></tr>
 
-  <tr><td>D8</td><td>Technical note describing the proposed overall Cal/Val strategy for the AWS Satellite</td><td>November 28, 2025</td></tr>
+  <tr><td>D8</td><td><a href="https://doi.org/10.5281/zenodo.17898844">
+Technical note describing the proposed overall Cal/Val strategy for the AWS Satellite</a>
+  </td><td>November 28, 2025</td></tr>
+
   <tr><td>D9</td><td><a href="https://doi.org/10.5281/zenodo.17265992">Quantification of AWS data quality and timeliness</a>
   </td><td>16 September, 2025</td></tr>
-  <tr><td>D10</td><td>Impact assessment of AWS to regional NWP and NWC</td><td>November 28, 2025</td></tr>
+
+  <tr><td>D10</td><td><a href="https://doi.org/10.5281/zenodo.17898940">Impact assessment of AWS to regional NWP and NWC</a>
+  </td><td>November 28, 2025</td></tr>
+
 </table>
 
 
