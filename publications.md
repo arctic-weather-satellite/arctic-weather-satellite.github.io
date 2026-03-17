@@ -59,6 +59,10 @@ Technical note describing the proposed overall Cal/Val strategy for the AWS Sate
 
    <tr><td>Patrick Eriksson et al.,</td><td><a href="https://amt.copernicus.org/articles/18/4709/2025/">The Arctic Weather Satellite Radiometer</a></td><td>10.5194/amt-18-4709-2025</td></tr>
 
+   <tr><td>Reima Eresmaa, Per Dahlgren, Susanna Hagelin, David Schönach and Adam Dybbroe</td><td><a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.70149">Estimating the potential impact of the EPS-Sterna satellite constellation in regional numerical weather prediction</a></td><td>10.1002/qj.70149</td></tr>
+
+   <tr><td>Stephanie Guedj, Máté Mile, David Schönach, Magnus Lindskog, Susanna Hagelin and Adam Dybbroe</td><td><a href="https://tellusjournal.org/articles/10.16993/tellus.4117">Dynamical Emissivity for Microwave Radiance Assimilation in Regional NWP: Preparing for the Arctic Weather Satellite and EPS-Sterna</a></td><td>10.16993/tellus.4117</td></tr>
+
 </table>
 
 ## Other AWS related publications and study reports
