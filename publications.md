@@ -65,10 +65,12 @@ Technical note describing the proposed overall Cal/Val strategy for the AWS Sate
 
 </table>
 
-## Other AWS related publications and study reports
+## Other AWS related publications, presentations and study reports
 
 <table align="center">
   <tr><th align="center">Authors</th><th align="center">Title</th><th align="center">Date</th></tr>
+   <tr><td>Adam Dybbroe</td><td><a href="https://doi.org/10.5281/zenodo.19814186">Arctic Weather Satellite - Support to weather forecasting in the Nordic region</a></td><td>January 20, 2026</td></tr>
+
    <tr><td>David Duncan, Niels Bormann, Mohamed Dahoui, Marijana Crepulja</td>
    <td><a href="https://www.ecmwf.int/en/elibrary/81681-assessment-arctic-weather-satellite-nwp">Assessment of the Arctic Weather Satellite in NWP</a></td>
    <td>September, 2025</td></tr>
